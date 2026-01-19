@@ -32,6 +32,4 @@ Hi! I'm Saksit Jittasopee, a 2nd year DST student at Mahidol University.<br><br>
 ![](https://nirzak-streak-stats.vercel.app/?user=Saksit-Jittasopee&theme=blue-green&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Saksit-Jittasopee&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-![Top Languages](https://github-readme-stats-seven-gules-11.vercel.app/api/top-langs/?username=Saksit-Jittasopee&layout=compact&theme=dark)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
