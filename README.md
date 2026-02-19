@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I'm Saksit Jittasopee, a 2nd year DST student at Mahidol University.<br><br>💼 Currently Seeking Internship Opportunities in Data Analyst & Data Scientist<br>📚 Career Interest: Data Science & Machine Learning  <br>🌐 Website: https://saksit-jittasopee.github.io/saksit-website/<br>📫 Contact: saksitjittasopee@gmail.com
+Hi! I'm Saksit Jittasopee, a 2nd year DST student at Mahidol University.<br><br>💼 Currently Seeking Internship Opportunities in Data Analyst & Data Scientist<br>📚 Career Interest: Data Science & Machine Learning  <br>🌐 Website: https://saksit-website.vercel.app/<br>📫 Contact: saksitjittasopee@gmail.com
 
 
 ## 🌐 Socials:
